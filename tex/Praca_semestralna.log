@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.14)  28 OCT 2019 21:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.14)  28 OCT 2019 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,11 +827,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
 Here is how much of TeX's memory you used:
  9582 strings out of 494888
  136637 string characters out of 6179866
- 263333 words of memory out of 5000000
+ 264333 words of memory out of 5000000
  12745 multiletter control sequences out of 15000+600000
  13530 words of font info for 35 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 37i,11n,49p,360b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,49p,386b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/ligerd/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.60
 0pk> </home/ligerd/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.
 600pk> </home/ligerd/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx120
@@ -840,9 +840,9 @@ Here is how much of TeX's memory you used:
 l1200.600pk> </home/ligerd/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1728.600pk> </home/ligerd/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec
 /ecbi1728.600pk>
-Output written on Praca_semestralna.pdf (4 pages, 913182 bytes).
+Output written on Praca_semestralna.pdf (4 pages, 907684 bytes).
 PDF statistics:
- 447 PDF objects out of 1000 (max. 8388607)
+ 428 PDF objects out of 1000 (max. 8388607)
  155 compressed objects within 2 object streams
  25 named destinations out of 1000 (max. 500000)
  166 words of extra memory for PDF output out of 10000 (max. 10000000)
