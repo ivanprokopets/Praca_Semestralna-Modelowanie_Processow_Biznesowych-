@@ -2,20 +2,20 @@
 \contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{2}{section.1}
 \contentsline {section}{\numberline {2}Definicja procesu biznesowego}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Podsumowanie czym jest proces biznesowy}{3}{subsection.2.1}
-\contentsline {section}{\numberline {3}Kryteria i klasyfikacji proces\IeC {\'o}w biznesowych}{3}{section.3}
+\contentsline {section}{\numberline {3}Kryteria i klasyfikacje proces\IeC {\'o}w biznesowych}{3}{section.3}
 \contentsline {subsection}{\numberline {3.1}Rodzaje kryteri\IeC {\'o}w}{3}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Rodzaje klasyfikacji}{3}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}R\IeC {\'o}znica kryteria a klasyfikacji}{3}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Podsumowanie}{3}{subsection.3.4}
-\contentsline {section}{\numberline {4}Przyk\IeC {\l }ady biznes proces\IeC {\'o}w w r\IeC {\'o}\IeC {\.z}nych rodzajach firm}{3}{section.4}
-\contentsline {subsection}{\numberline {4.1}Pryk\IeC {\l }ad biznes procesu w firmie IT}{3}{subsection.4.1}
-\contentsline {subsubsection}{\numberline {4.1.1}Zakupienie nowych serwer\IeC {\'o}w firm\IeC {\k a} jako proces biznesowy}{3}{subsubsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.2}Og\IeC {\'o}lny opis procesu}{3}{subsubsection.4.1.2}
-\contentsline {subsubsection}{\numberline {4.1.3}Problem przestarze\IeC {\l }\IeC {\k e}go sprz\IeC {\k e}tu}{3}{subsubsection.4.1.3}
-\contentsline {subsubsection}{\numberline {4.1.4}Problem mocy obliczeniowej}{3}{subsubsection.4.1.4}
-\contentsline {subsubsection}{\numberline {4.1.5}Opis przep\IeC {\l }ywu procesu biznesowego}{3}{subsubsection.4.1.5}
-\contentsline {subsection}{\numberline {4.2}Przyk\IeC {\l }ad biznes procesu w firmie marketingowej}{3}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Og\IeC {\'o}lny opis procesu}{3}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{3}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Opis przep\IeC {\l }ywu procesu biznesowego}{3}{subsubsection.4.2.3}
-\contentsline {section}{\numberline {5}Wnioski}{3}{section.5}
+\contentsline {subsection}{\numberline {3.3}Podsumowanie}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Przyk\IeC {\l }ady biznes proces\IeC {\'o}w w r\IeC {\'o}\IeC {\.z}nych rodzajach firm}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Pryk\IeC {\l }ad biznes procesu w firmie IT}{5}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Opis og\IeC {\'o}lny procesu}{5}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Wyst\IeC {\k e}puj\IeC {\k a}ce problemy w firmie}{5}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Wnioski}{6}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Rozwi\IeC {\k a}zanie problem\IeC {\'o}w}{7}{subsubsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.5}Klastry SQL Server 2019}{7}{subsubsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.6}Opis przep\IeC {\l }ywu procesu biznesowego}{7}{subsubsection.4.1.6}
+\contentsline {subsection}{\numberline {4.2}Przyk\IeC {\l }ad biznes procesu w firmie marketingowej}{7}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Og\IeC {\'o}lny opis procesu}{7}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{7}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Opis przep\IeC {\l }ywu procesu biznesowego}{7}{subsubsection.4.2.3}
+\contentsline {section}{\numberline {5}Wnioski}{7}{section.5}
