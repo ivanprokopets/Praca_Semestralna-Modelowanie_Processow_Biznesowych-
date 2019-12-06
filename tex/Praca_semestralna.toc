@@ -3,7 +3,6 @@
 \contentsline {section}{\numberline {2}Definicja procesu biznesowego}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Podsumowanie czym jest proces biznesowy}{3}{subsection.2.1}
 \contentsline {section}{\numberline {3}Kryteria i klasyfikacje proces\IeC {\'o}w biznesowych}{3}{section.3}
-\contentsline {subsection}{\numberline {3.1}Podsumowanie}{5}{subsection.3.1}
 \contentsline {section}{\numberline {4}Przyk\IeC {\l }ady biznes proces\IeC {\'o}w w r\IeC {\'o}\IeC {\.z}nych rodzajach firm}{5}{section.4}
 \contentsline {subsection}{\numberline {4.1}Pryk\IeC {\l }ad biznes procesu w firmie IT}{5}{subsection.4.1}
 \contentsline {subsubsection}{\numberline {4.1.1}Opis og\IeC {\'o}lny procesu}{5}{subsubsection.4.1.1}
@@ -12,8 +11,10 @@
 \contentsline {subsubsection}{\numberline {4.1.4}Rozwi\IeC {\k a}zanie problem\IeC {\'o}w}{7}{subsubsection.4.1.4}
 \contentsline {subsubsection}{\numberline {4.1.5}Klastry SQL Server 2019}{7}{subsubsection.4.1.5}
 \contentsline {subsubsection}{\numberline {4.1.6}Opis przep\IeC {\l }ywu procesu biznesowego}{7}{subsubsection.4.1.6}
-\contentsline {subsection}{\numberline {4.2}Przyk\IeC {\l }ad biznes procesu w firmie marketingowej}{7}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Og\IeC {\'o}lny opis procesu}{7}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{7}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Opis przep\IeC {\l }ywu procesu biznesowego}{7}{subsubsection.4.2.3}
-\contentsline {section}{\numberline {5}Wnioski}{7}{section.5}
+\contentsline {subsection}{\numberline {4.2}Przyk\IeC {\l }ady biznes proces\IeC {\'o}w w firmach marketingowych}{7}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Wstep}{7}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Biznes proces o nazwie 'Opracowanie planu marketingowego'}{7}{subsubsection.4.2.2}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu o nazwie}{7}{section*.2}
+\contentsline {paragraph}{Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{8}{section*.3}
+\contentsline {paragraph}{Opis przep\IeC {\l }ywu procesu biznesowego}{8}{section*.4}
+\contentsline {section}{\numberline {5}Wnioski}{10}{section.5}
