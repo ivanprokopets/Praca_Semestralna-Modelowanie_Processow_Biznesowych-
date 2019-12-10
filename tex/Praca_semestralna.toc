@@ -16,20 +16,19 @@
 \contentsline {subsection}{\numberline {4.2}Biznes procesy w firmach marketingowych}{8}{subsection.4.2}
 \contentsline {subsubsection}{\numberline {4.2.1}Wstep}{8}{subsubsection.4.2.1}
 \contentsline {subsubsection}{\numberline {4.2.2}Biznes proces o nazwie 'Opracowanie planu marketingowego'}{8}{subsubsection.4.2.2}
-\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu o nazwie}{8}{section*.2}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{8}{section*.2}
 \contentsline {paragraph}{Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{8}{section*.3}
-\contentsline {paragraph}{Opis przep\IeC {\l }ywu procesu biznesowego}{8}{section*.4}
-\contentsline {section}{\numberline {5}Wnioski}{11}{section.5}
-\contentsline {subsection}{\numberline {5.1}Biznes procesy w firmach holelowych}{11}{subsection.5.1}
-\contentsline {subsubsection}{\numberline {5.1.1}Wstep}{11}{subsubsection.5.1.1}
-\contentsline {subsubsection}{\numberline {5.1.2}Procesy biznesowe w sektorze hotelarskim}{11}{subsubsection.5.1.2}
-\contentsline {subsubsection}{\numberline {5.1.3}Strategii uzyskania przewagi konkurencyjnej}{12}{subsubsection.5.1.3}
-\contentsline {subsubsection}{\numberline {5.1.4}Faza rezerwacji}{12}{subsubsection.5.1.4}
+\contentsline {paragraph}{Opis przep\IeC {\l }ywu procesu biznesowego}{9}{section*.4}
+\contentsline {subsection}{\numberline {4.3}Biznes procesy w firmach hotelowych}{10}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Wstep}{10}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Procesy biznesowe w sektorze hotelarskim}{10}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Strategii uzyskania przewagi konkurencyjnej}{11}{subsubsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.4}Faza rezerwacji}{11}{subsubsection.4.3.4}
 \contentsline {paragraph}{Definicja problemu}{12}{section*.5}
-\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{13}{section*.6}
-\contentsline {paragraph}{Wyniki}{13}{section*.7}
-\contentsline {subsubsection}{\numberline {5.1.5}Faza przybycia}{13}{subsubsection.5.1.5}
-\contentsline {paragraph}{Kontrola w trakcie}{13}{section*.8}
+\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{12}{section*.6}
+\contentsline {paragraph}{Wyniki}{12}{section*.7}
+\contentsline {subsubsection}{\numberline {4.3.5}Faza przybycia}{12}{subsubsection.4.3.5}
+\contentsline {paragraph}{Kontrola w trakcie}{12}{section*.8}
 \contentsline {paragraph}{Definicja problemu.}{13}{section*.9}
-\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{14}{section*.10}
-\contentsline {paragraph}{Oczekiwane wyniki}{14}{section*.11}
+\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{13}{section*.10}
+\contentsline {paragraph}{Oczekiwane wyniki}{13}{section*.11}
