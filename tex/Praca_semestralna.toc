@@ -19,16 +19,23 @@
 \contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{8}{section*.2}
 \contentsline {paragraph}{Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{8}{section*.3}
 \contentsline {paragraph}{Opis przep\IeC {\l }ywu procesu biznesowego}{9}{section*.4}
-\contentsline {subsection}{\numberline {4.3}Biznes procesy w firmach hotelowych}{10}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.3}Zarz\IeC {\k a}dzanie procesami biznesowymi w sektorze hotelarskim}{10}{subsection.4.3}
 \contentsline {subsubsection}{\numberline {4.3.1}Wstep}{10}{subsubsection.4.3.1}
 \contentsline {subsubsection}{\numberline {4.3.2}Procesy biznesowe w sektorze hotelarskim}{10}{subsubsection.4.3.2}
 \contentsline {subsubsection}{\numberline {4.3.3}Strategii uzyskania przewagi konkurencyjnej}{11}{subsubsection.4.3.3}
 \contentsline {subsubsection}{\numberline {4.3.4}Faza rezerwacji}{11}{subsubsection.4.3.4}
-\contentsline {paragraph}{Definicja problemu}{12}{section*.5}
-\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{12}{section*.6}
-\contentsline {paragraph}{Wyniki}{12}{section*.7}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{11}{section*.5}
+\contentsline {paragraph}{Definicja problemu}{12}{section*.6}
+\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{12}{section*.7}
+\contentsline {paragraph}{Wyniki}{12}{section*.8}
 \contentsline {subsubsection}{\numberline {4.3.5}Faza przybycia}{12}{subsubsection.4.3.5}
-\contentsline {paragraph}{Kontrola w trakcie}{12}{section*.8}
-\contentsline {paragraph}{Definicja problemu.}{13}{section*.9}
-\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{13}{section*.10}
-\contentsline {paragraph}{Oczekiwane wyniki}{13}{section*.11}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{12}{section*.9}
+\contentsline {paragraph}{Definicja problemu.}{13}{section*.10}
+\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{13}{section*.11}
+\contentsline {paragraph}{Oczekiwane wyniki}{13}{section*.12}
+\contentsline {subsubsection}{\numberline {4.3.6}Pozostawanie w fazie zarz\IeC {\k a}dzania zaproszeniami go\IeC {\'s}ci i skargami}{14}{subsubsection.4.3.6}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{14}{section*.13}
+\contentsline {paragraph}{Definicja problemu.}{14}{section*.14}
+\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{14}{section*.15}
+\contentsline {paragraph}{Oczekiwane wyniki}{14}{section*.16}
+\contentsline {subsubsection}{\numberline {4.3.7}Wnioski}{14}{subsubsection.4.3.7}
