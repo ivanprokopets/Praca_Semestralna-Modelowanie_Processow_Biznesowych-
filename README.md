@@ -8,3 +8,4 @@ Treść skrócona:
 3. Przykłady biznes procesów w różnych rodzajach firm
 
 Poszczególnę informację znajdują się w PDF.
+https://link.springer.com/article/10.1007/s11135-018-0727-4
