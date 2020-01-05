@@ -1,41 +1,41 @@
 \babel@toc {polish}{}
 \contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{2}{section.1}
 \contentsline {section}{\numberline {2}Definicja procesu biznesowego}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Podsumowanie czym jest proces biznesowy}{3}{subsection.2.1}
+\contentsline {paragraph}{Podsumowanie czym jest proces biznesowy}{3}{section*.2}
 \contentsline {section}{\numberline {3}Kryteria i klasyfikacje proces\IeC {\'o}w biznesowych}{3}{section.3}
 \contentsline {section}{\numberline {4}Przyk\IeC {\l }ady biznes proces\IeC {\'o}w w r\IeC {\'o}\IeC {\.z}nych rodzajach firm}{5}{section.4}
 \contentsline {subsection}{\numberline {4.1}Biznes procesy w firmie IT}{5}{subsection.4.1}
 \contentsline {subsubsection}{\numberline {4.1.1}Opis og\IeC {\'o}lny procesu}{5}{subsubsection.4.1.1}
 \contentsline {subsubsection}{\numberline {4.1.2}Wyst\IeC {\k e}puj\IeC {\k a}ce problemy w firmie}{5}{subsubsection.4.1.2}
-\contentsline {subsubsection}{\numberline {4.1.3}Wnioski}{6}{subsubsection.4.1.3}
-\contentsline {subsubsection}{\numberline {4.1.4}Rozwi\IeC {\k a}zanie problem\IeC {\'o}w}{6}{subsubsection.4.1.4}
-\contentsline {subsubsection}{\numberline {4.1.5}Obecny stan}{6}{subsubsection.4.1.5}
-\contentsline {subsubsection}{\numberline {4.1.6}Proponowany stan}{7}{subsubsection.4.1.6}
-\contentsline {subsubsection}{\numberline {4.1.7}Klastry SQL Server 2019}{7}{subsubsection.4.1.7}
-\contentsline {subsubsection}{\numberline {4.1.8}Opis przep\IeC {\l }ywu procesu biznesowego}{8}{subsubsection.4.1.8}
-\contentsline {subsection}{\numberline {4.2}Biznes procesy w firmach marketingowych}{8}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Wstep}{8}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Biznes proces o nazwie 'Opracowanie planu marketingowego'}{8}{subsubsection.4.2.2}
-\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{8}{section*.2}
-\contentsline {paragraph}{Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{8}{section*.3}
-\contentsline {paragraph}{Opis przep\IeC {\l }ywu procesu biznesowego}{9}{section*.4}
-\contentsline {subsection}{\numberline {4.3}Zarz\IeC {\k a}dzanie procesami biznesowymi w sektorze hotelarskim}{10}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Wstep}{10}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}Procesy biznesowe w sektorze hotelarskim}{10}{subsubsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.3}Strategii uzyskania przewagi konkurencyjnej}{11}{subsubsection.4.3.3}
-\contentsline {subsubsection}{\numberline {4.3.4}Faza rezerwacji}{11}{subsubsection.4.3.4}
-\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{11}{section*.5}
-\contentsline {paragraph}{Definicja problemu}{12}{section*.6}
-\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{12}{section*.7}
-\contentsline {paragraph}{Wyniki}{12}{section*.8}
-\contentsline {subsubsection}{\numberline {4.3.5}Faza przybycia}{12}{subsubsection.4.3.5}
-\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{12}{section*.9}
-\contentsline {paragraph}{Definicja problemu.}{13}{section*.10}
-\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{13}{section*.11}
-\contentsline {paragraph}{Oczekiwane wyniki}{13}{section*.12}
-\contentsline {subsubsection}{\numberline {4.3.6}Pozostawanie w fazie zarz\IeC {\k a}dzania zaproszeniami go\IeC {\'s}ci i skargami}{14}{subsubsection.4.3.6}
-\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{14}{section*.13}
-\contentsline {paragraph}{Definicja problemu.}{14}{section*.14}
-\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{14}{section*.15}
-\contentsline {paragraph}{Oczekiwane wyniki}{14}{section*.16}
-\contentsline {subsubsection}{\numberline {4.3.7}Wnioski}{14}{subsubsection.4.3.7}
+\contentsline {subsubsection}{\numberline {4.1.3}Wnioski z problem\IeC {\'o}w}{6}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Rozwi\IeC {\k a}zanie problem\IeC {\'o}w}{7}{subsubsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.5}Obecny stan}{7}{subsubsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.6}Proponowany stan}{8}{subsubsection.4.1.6}
+\contentsline {subsubsection}{\numberline {4.1.7}Opis przep\IeC {\l }ywu procesu biznesowego}{8}{subsubsection.4.1.7}
+\contentsline {subsubsection}{\numberline {4.1.8}Klastry SQL Server 2019}{9}{subsubsection.4.1.8}
+\contentsline {subsubsection}{\numberline {4.1.9}Wnioski}{9}{subsubsection.4.1.9}
+\contentsline {subsection}{\numberline {4.2}Biznes procesy w firmach marketingowych}{10}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Wstep}{10}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Biznes proces o nazwie 'Opracowanie planu marketingowego'}{10}{subsubsection.4.2.2}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{10}{section*.3}
+\contentsline {paragraph}{Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{11}{section*.4}
+\contentsline {paragraph}{Opis przep\IeC {\l }ywu procesu biznesowego}{11}{section*.5}
+\contentsline {subsubsection}{\numberline {4.2.3}Biznes proces o nazwie 'Opracowanie strategii promocyjnej'}{12}{subsubsection.4.2.3}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{12}{section*.6}
+\contentsline {paragraph}{Problemy kt\IeC {\'o}re proces rozwi\IeC {\k a}zuje}{12}{section*.7}
+\contentsline {paragraph}{Opis przep\IeC {\l }ywu procesu biznesowego}{13}{section*.8}
+\contentsline {subsection}{\numberline {4.3}Zarz\IeC {\k a}dzanie procesami biznesowymi w sektorze hotelarskim}{15}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Wstep}{15}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Procesy biznesowe w sektorze hotelarskim}{16}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Innowacyjne technologie stosowane w bran\IeC {\.z}y hotelarskiej}{16}{subsubsection.4.3.3}
+\contentsline {paragraph}{Wst\IeC {\k e}p}{16}{section*.9}
+\contentsline {paragraph}{Innowacje technologiczne.}{16}{section*.10}
+\contentsline {paragraph}{Antichrapkowy pok\IeC {\'o}j}{16}{section*.11}
+\contentsline {paragraph}{Chipy elektroniczne do po\IeC {\'s}cieli w pokojach hotelowych}{17}{section*.12}
+\contentsline {subsubsection}{\numberline {4.3.4}Pozostawanie w fazie zarz\IeC {\k a}dzania zaproszeniami go\IeC {\'s}ci i skargami}{17}{subsubsection.4.3.4}
+\contentsline {paragraph}{Og\IeC {\'o}lny opis procesu}{17}{section*.13}
+\contentsline {paragraph}{Definicja problemu.}{17}{section*.14}
+\contentsline {paragraph}{Sugestie dotycz\IeC {\k a}ce ulepsze\IeC {\'n}}{17}{section*.15}
+\contentsline {paragraph}{Oczekiwane wyniki}{18}{section*.16}
+\contentsline {subsubsection}{\numberline {4.3.5}Wnioski}{18}{subsubsection.4.3.5}
+\contentsline {section}{\numberline {5}Literatura}{18}{section.5}
